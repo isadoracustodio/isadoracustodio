@@ -6,8 +6,8 @@
 
 
 
-<h3>💻 Desenvolvedora em formação | Técnica em ADS</h3>
-
+<h3>💻 Estudante de Ciência da Computação | Desenvolvedora em formação | Técnica em ADS</h3>
+<h4>🏆 1º lugar no Bootcamp Jovem Programador (bolsa de 100%)</h4>
 <p>
 Curiosa por natureza, apaixonada por tecnologia<br>
 e movida a aprender criando 🚀
