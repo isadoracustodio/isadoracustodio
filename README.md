@@ -47,15 +47,6 @@ Gosto de aprender na prática, criar projetos completos e entender o funcionamen
 <br>
 <br>
 
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isadoracustodio&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=ff4ecd&text_color=c9c9ff&icon_color=8e2de2" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoracustodio&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ff4ecd&text_color=c9c9ff" />
-</div>
-
-
-<br>
-<br>
-<br>
 <br>
 
 ## 📦 Projetos em Destaque
